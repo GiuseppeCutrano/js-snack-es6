@@ -25,7 +25,7 @@ const squadre = [
   ];
 
 
-  console.log(squadre);
+  console.log(`${squadre}`);
 
   for(var i = 0; i < squadre.length; i++){
 
